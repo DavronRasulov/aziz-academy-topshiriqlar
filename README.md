@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — RASULOV DAVRON
+# 🎓 Aziz Academy — Rasulov Davron
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **0%**  (0/179 mavzu)
 
-- ⭐ Jami ball: **18875**
-- 📤 GitHubga yuborilgan topshiriqlar: **506**
+- ⭐ Jami ball: **19090**
+- 📤 GitHubga yuborilgan topshiriqlar: **507**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-16 03:50</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-18 03:35</sub>
