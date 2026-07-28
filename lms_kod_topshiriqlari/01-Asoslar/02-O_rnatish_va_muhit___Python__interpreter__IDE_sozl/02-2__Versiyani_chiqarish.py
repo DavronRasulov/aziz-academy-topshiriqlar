@@ -1,3 +1,3 @@
-v = input()
-print(f"Python {v} ")
+e = input()
+print(f"Python {e} ")
 
